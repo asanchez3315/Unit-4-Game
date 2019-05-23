@@ -14,7 +14,7 @@ Crystal Collector
 A Fun math game, collect as many crystals as you can without going over your target number. Each crystal has a value which is randomized everytime increasing the game's suspense!
 
 ## Screenshots
-[Example screenshot](./img/crystal-collector.png)
+![Example screenshot](./img/crystal-collector.png)
 
 ## Technologies
 * JavaScript
@@ -22,6 +22,9 @@ A Fun math game, collect as many crystals as you can without going over your tar
 * CSS
 * HTML
 * Github pages for deployment
+
+## See it live
+https://asanchez3315.github.io/Unit-4-Game/
 
 
 ## Status
