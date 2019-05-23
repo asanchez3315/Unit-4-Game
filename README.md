@@ -5,10 +5,8 @@ Crystal Collector
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
+* [See it live](#see-it-live)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
